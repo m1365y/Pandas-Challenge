@@ -5,7 +5,7 @@ You are the new Chief Data Scientist for your city's school district. In this ca
 
 As a first task, you've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your task is to aggregate the data to showcase obvious trends in school performance.
 
-#District Summary
+##District Summary
 
 Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame.
 
